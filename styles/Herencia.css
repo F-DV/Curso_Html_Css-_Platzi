@@ -3,5 +3,5 @@ html{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
-    font-size: inherit;
+    font-size: inherit; /*Hereda los estilos de la etiqueta HTML*/
 }
