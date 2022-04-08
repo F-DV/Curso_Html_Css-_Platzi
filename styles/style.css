@@ -1,0 +1,15 @@
+/*Tipo de etiqueta*/
+p{
+    color: blue;
+}
+
+/*Class*/
+.parrafo{
+    color: blueviolet;
+}
+
+/*ID*/
+#texto{
+    color: yellow;
+    font-size: 24;
+}
