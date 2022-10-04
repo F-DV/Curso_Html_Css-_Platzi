@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+main{
+    height:80vh;
+}
+.header{
+    background-color: antiquewhite;
+    margin: 0px;
+    height: 7vh;
+}
+figure, nav{
+    display: inline-block;
+
+}
+.nav{
+    position: absolute;
+    right: 1.5rem;
+}
+.nav li{
+    list-style: none;
+    margin: 1rem;
+    
+}
+section{
+    display: inline-block;
+    position: absolute;
+    left: 20vw;
+    width: 80vw;
+}
+aside,section{
+    display: inline-block;
+    background-color:aqua;
+    height: 80vh;
+    
+}
+aside{
+    width: 20vw;
+}
+
+aside div{
+    background-color: red;
+    margin: 3vh;
+    height: 15vh;
+    border-radius: 5px;
+}
+section{
+    position: absolute;
+    background-color: blueviolet;
+    width: 80vw;
+    left: 20vw;
+}
+footer{
+    background-color: orange;
+    height: 15vh;
+}
+.footer-social, .footer-info{
+    display: inline-block;
+    margin: 1rem;
+}
+.footer-info{
+    position: absolute;
+    right: 1.5rem;
+}
